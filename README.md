@@ -3,10 +3,10 @@
 ## I. Overview of Project
 
 ### Background
-
+As a data analyst for PyBer, a ride-sharing app company, we were tasked to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization  for the CEO using Pandas and Matplotlib.
 
 ### Objective
-
+As an additional assignment, the CEO requested a summary DataFrame of the ride-sharing data by city type and a multiple-line graph that shows the total weekly fares for each city type.
 
 ## II. [Analysis and Results]
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
