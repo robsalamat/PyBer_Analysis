@@ -11,6 +11,8 @@ As an additional assignment, the CEO requested a summary DataFrame of the ride-s
 ## II. [Analysis and Results](PyBer_Challenge.ipynb)
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+![](analysis/PyBer_fare_summary.png)
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
 
